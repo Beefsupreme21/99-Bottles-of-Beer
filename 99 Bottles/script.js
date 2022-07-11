@@ -8,7 +8,6 @@ let verse7 = 'No more bottles of beer on the wall, no more bottles of beer. Go t
 
 let x = 99;
 
-
 function song() {
     document.getElementById('content').innerHTML += [x] + verse + [x] + verse2;
     x--;
